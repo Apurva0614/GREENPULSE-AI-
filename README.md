@@ -157,18 +157,31 @@ SDG 15: Life on Land
 📁 Project Structure
 
 ├── data/
+
 ├── feature_engineered_greenpulse/
+
 ├── preprocessing/
+
 ├── random_forest_classifier.pkl/
+
 ├── eda/
+
 ├── app/
+
 ├── README.md
+
 ├── ml
+
 ├── random_forest_regressor.pkl/
+
 ├── requirements/
+
 ├── retrain models/
+
 ├── visualization/
+
 ├── subnational_1_tree_cover_loss/
+
 ├── subnational_2_tree_cover_loss/
 
 
